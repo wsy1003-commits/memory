@@ -1,0 +1,4 @@
+어떤 카테고리에 어떤 종류의 아이디어가 있다.
+예를 들어 'Project Ideas'는 'Projects' 폴더에, 
+'Skill Upgrades'는 'Skills' 폴더에, 
+'Decision Records'는 'Decisions' 폴더에 위치할 수 있다.
